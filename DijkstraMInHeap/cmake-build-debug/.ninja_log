@@ -1,0 +1,4 @@
+# ninja log v5
+345	494	1713375708378397658	DSA_Graph	adaae7f31d0c13e7
+0	156	1726153008269234350	CMakeFiles/DijkstraMinHeap.dir/main.c.o	ccd89d1c4050016e
+156	294	1726153008400631852	DijkstraMinHeap	a4ab8acfbad6bb3

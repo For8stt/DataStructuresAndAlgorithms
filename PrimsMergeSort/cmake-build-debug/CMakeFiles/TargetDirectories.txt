@@ -1,0 +1,3 @@
+/Users/ulian/CLionProjects/PrimsMergeSort/cmake-build-debug/CMakeFiles/PrimsMergeSort.dir
+/Users/ulian/CLionProjects/PrimsMergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ulian/CLionProjects/PrimsMergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

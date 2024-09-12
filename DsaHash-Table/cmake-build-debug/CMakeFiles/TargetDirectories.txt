@@ -1,0 +1,3 @@
+/Users/ulian/CLionProjects/DsaHash-Table/cmake-build-debug/CMakeFiles/DsaHash_Table.dir
+/Users/ulian/CLionProjects/DsaHash-Table/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ulian/CLionProjects/DsaHash-Table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
